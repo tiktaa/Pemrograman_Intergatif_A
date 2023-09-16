@@ -12,34 +12,34 @@ Langkah - langkah dan hasil Screenshot praktikum CRUD MongoDB Compass dan Shell.
 * ## Langkah 3 
 > Melakuakan insert buku pertama dengan melakukan klik “Add Data”, pilih “Insert
 Document”, isi dengan data yang diinginkan dan klik “Insert”
-![Screenshot insert buku pertama](../Screenshoot/Modul2/(823).png)
+![Screenshot insert buku pertama](../Screenshoot/Modul2/823.png)
 
 * ## Langkah 4 
 > insert buku kedua dengan cara yang sama.
-![Screenshot insert buku kedua](../Screenshoot/Modul2/(824).png)
+![Screenshot insert buku kedua](../Screenshoot/Modul2/824.png)
 
 * ## Langkah 5
 > Melakukan pencarian buku dengan author “Osamu Dazai” dengan mengisi filter yang
 diinginkan dan klik “Find”
-![Screenshot pencarian buku](../Screenshoot/Modul2/(825).png)
+![Screenshot pencarian buku](../Screenshoot/Modul2/825.png)
 
 * ## Langkah 6
 > Melakukan perubahan summary pada buku “No Longer Human” menjadi “Buku yang
 bagus (<NAMA>,<NIM>) dengan melakukan klik “Edit Document” (berlambang
 pensil), mengisi nilai summary yang baru, dan melakukan klik “Update”
-![Screenshot update buku](../Screenshoot/Modul2/(826).png)
+![Screenshot update buku](../Screenshoot/Modul2/826.png)
 
 * ## Langkah 7
 > Melakukan penghapusan pada buku “I Am a Cat” dengan melakukan klik “Remove
 Document” (berlambang tong sampah) dan melakukan klik “Delete”
-![Screenshot delete buku](../Screenshoot/Modul2/(827).png)
+![Screenshot delete buku](../Screenshoot/Modul2/827.png)
 
 ## MongoDB Shell
 * ## Langkah 1
 > Melakukan koneksi ke MongoDB Server dengan menjalankan command mongosh bagi
 yang menggunakan terminal build in OS sehingga tampilan terminal kalian akan
 menjadi seperti berikut
-![Screenshot koneksi ke MongoDB](../Screenshoot/Modul2/1.png)
+![Screenshot koneksi ke MongoDB](../Screenshoot/Modul2/4.png)
 
 * ## Langkah 2
 > Melihat list database yang ada di server dengan menjalankan command
