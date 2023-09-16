@@ -7,7 +7,7 @@ Langkah - langkah dan hasil Screenshot praktikum CRUD MongoDB Compass dan Shell.
 ![Screenshot koneksi ke MongoDB](../Screenshoot/Modul2/1.png) 
 * ## Langkah 2 
 > Membuat database dengan melakukan klik “Create Database” <br /><br />
-![Screenshot membuat database](../Screenshoot/Modul2/(822).png)
+![Screenshot membuat database](../Screenshoot/Modul2/822.png)
 
 * ## Langkah 3 
 > Melakuakan insert buku pertama dengan melakukan klik “Add Data”, pilih “Insert
