@@ -40,7 +40,7 @@ Document” (berlambang tong sampah) dan melakukan klik “Delete”
 > Melakukan koneksi ke MongoDB Server dengan menjalankan command mongosh bagi
 yang menggunakan terminal build in OS sehingga tampilan terminal kalian akan
 menjadi seperti berikut
-![Screenshot koneksi MongoDB](../Screenshoot/Modul2/4.png)
+![Screenshot koneksi ke MongoDB](../Screenshoot/Modul2/1.png)
 
 * ## Langkah 2
 > Melihat list database yang ada di server dengan menjalankan command
